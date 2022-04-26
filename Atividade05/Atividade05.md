@@ -4,7 +4,6 @@ Disciplina de Computação em Nuvem <br>
 Elano Nunes Caitano - 473434 <br>
 
 ## QUESTÃO 02: 
-#### [Link para o vídeo executando a prática do Laboratório 01: ](https://drive.google.com/drive/folders/1kFWsDF_8JyLhumVPh3OYk5WZAeoQvTbq?usp=sharing) 
-<https://drive.google.com/drive/folders/1kFWsDF_8JyLhumVPh3OYk5WZAeoQvTbq?usp=sharing>
+#### [Link para o vídeo executando a prática do Laboratório 01: ](https://drive.google.com/file/d/1pNw0HD2UroBkcdlkpwBt-4d28dpi43bi/view?usp=sharing) 
+<https://drive.google.com/file/d/1pNw0HD2UroBkcdlkpwBt-4d28dpi43bi/view?usp=sharing>
 
-OBS: dividido em duas partes por conta de uma interferencia aqui na hora da gravação.
