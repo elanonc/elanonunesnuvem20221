@@ -1,6 +1,6 @@
-### Equipe: 
+## Tema: DynamoDB
 
-### Tema: DynamoDB
+## Equipe: 
 
 Elano Nunes Caitano <br>
 Francisco Valdemi Costa Junior<br>
